@@ -122,6 +122,13 @@ h1 {
 .link-card {
   text-decoration: none;
 }
+.project-card a,
+.project-card a:visited,
+.project-card a:hover,
+.project-card a:active {
+  text-decoration: none;
+  color: inherit;
+}
 
 .project-title {
   font-size: 3rem;
