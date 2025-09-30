@@ -119,6 +119,10 @@ h1 {
   margin: 0 auto;
 }
 
+.link-card {
+  text-decoration: none;
+}
+
 .project-title {
   font-size: 3rem;
   text-align: center;
