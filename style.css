@@ -273,6 +273,19 @@ h1 {
   box-shadow: 0 0 10px rgba(79, 70, 229, 0.3);
 }
 
+.project-card a {
+  text-decoration: none !important;
+}
+.project-card a:visited {
+  text-decoration: none !important;
+}
+.project-card a:hover {
+  text-decoration: none !important;
+}
+.project-card a:active {
+  text-decoration: none !important;
+}
+
 .button-form {
   color: var(--claro);
   background: linear-gradient(45deg, var(--primaria), var(--secundaria));
